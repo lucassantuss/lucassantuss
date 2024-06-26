@@ -1,5 +1,6 @@
 ### Olá!! Eu sou o Lucas, vamos juntos nessa!! 🚀
 - :man_technologist: Desenvolvedor Full-Stack
+- :page_facing_up: [Currículo Virtual (Portfólio)](https://lucassantuss.github.io/Curriculo-Portfolio/)
 
 <br>
 <div align="center">
