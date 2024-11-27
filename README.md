@@ -45,12 +45,12 @@
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> My Recent Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> 
 
- 1. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> Curriculum (Porfolio)](https://lucassantuss.github.io/Curriculo-Portfolio/)
+ 1. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> Curriculum (Porfolio)](https://lucassantuss.github.io/curriculum-portfolio)
  2. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ticket.png" alt="Ticket" width="25" height="25" /> Passa Ingressos](https://github.com/lucassantuss/PassaIngressos)
  3. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="25" height="25" /> SmartMart](https://github.com/lucassantuss/SmartMart)
- 4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Sistemas Lineares - Gauss](https://github.com/lucassantuss/linear-systems-gauss)
- 5. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> Analisador Sintático - First e Follow](https://github.com/lucassantuss/Analisador_Sintatico_First_Follow)
- 6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker Light Skin Tone" width="25" height="25" /> Organo](https://github.com/lucassantuss/Organo)
+ 4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Linear Systems - Gaussian Elimination](https://github.com/lucassantuss/linear-systems-gauss)
+ 5. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> Syntactic Analyzer - First and Follow](https://github.com/lucassantuss/syntactic-analyzer-first-follow)
+ 6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker Light Skin Tone" width="25" height="25" /> Organo](https://github.com/lucassantuss/organo)
 
   <h2 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
