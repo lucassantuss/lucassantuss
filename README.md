@@ -48,7 +48,7 @@
  1. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> Curriculum (Porfolio)](https://lucassantuss.github.io/Curriculo-Portfolio/)
  2. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ticket.png" alt="Ticket" width="25" height="25" /> Passa Ingressos](https://github.com/lucassantuss/PassaIngressos)
  3. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="25" height="25" /> SmartMart](https://github.com/lucassantuss/SmartMart)
- 4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Sistemas Lineares - Gauss](https://github.com/lucassantuss/SistemasLineares_Gauss)
+ 4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Sistemas Lineares - Gauss](https://github.com/lucassantuss/linear-systems-gauss)
  5. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> Analisador Sintático - First e Follow](https://github.com/lucassantuss/Analisador_Sintatico_First_Follow)
  6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker Light Skin Tone" width="25" height="25" /> Organo](https://github.com/lucassantuss/Organo)
 
