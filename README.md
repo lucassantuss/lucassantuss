@@ -31,15 +31,19 @@
     </a>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git,githubactions" />
     </a>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=azure,postman,selenium,mysql" />
+      <img src="https://skillicons.dev/icons?i=azure,postman,mysql,mongodb,sqlite" />
     </a>    
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,pycharm,opencv" />
+      <img src="https://skillicons.dev/icons?i=py,pycharm,tensorflow,opencv" />
+    </a>
+        <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,selenium" />
     </a>
   </p>
 
