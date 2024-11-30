@@ -55,6 +55,7 @@
  4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Linear Systems - Gaussian Elimination](https://github.com/lucassantuss/linear-systems-gauss)
  5. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="20" height="20" /> Syntactic Analyzer - First and Follow](https://github.com/lucassantuss/syntactic-analyzer-first-follow)
  6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker Light Skin Tone" width="20" height="20" /> Organo](https://github.com/lucassantuss/organo)
+ 7. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="20" height="20" /> Quiz](https://github.com/lucassantuss/quiz-console)
 
   <h2 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" />
