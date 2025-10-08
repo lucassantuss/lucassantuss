@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lucassantuss">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;PROGRAMMER%20;SOFTWARE%20ENGINEER%20;2%2B%20YEAR%27s%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;PROGRAMMER%20;SOFTWARE%20ENGINEER%20;3%2B%20YEAR%27s%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -69,10 +69,10 @@
     <a href="https://www.linkedin.com/in/lucassantuss/" target="_blank"><img height="40"
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"></a>
-    <a href="https://linktr.ee/lucassantuss" target="_blank"><img height="40"
+    <a href="https://linktr.ee/lucassantussdev" target="_blank"><img height="40"
         src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
         target="_blank"></a>
-    <a href="https://www.instagram.com/lucassantuss/" target="_blank"><img height="40"
+    <a href="https://www.instagram.com/lucassantussdev/" target="_blank"><img height="40"
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         target="_blank"></a>
   </div>
