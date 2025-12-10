@@ -43,7 +43,7 @@
     </a>
         <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,selenium" />
+      <img src="https://skillicons.dev/icons?i=figma,selenium,grafana" />
     </a>
   </p>
 
