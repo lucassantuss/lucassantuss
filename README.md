@@ -63,7 +63,7 @@
   ## My Published Academic Articles
 
  1. [Proposta de aplicação de visão computacional na análise de exercícios de musculação: Utilização da biblioteca Mediapipe com o modelo Blazepose e arquitetura Web multiplataforma (WebMedia 2025)](https://doi.org/10.5753/webmedia.2025.15791)
- 2. [Aplicação da fase de Empatia do processo de design thinking para compreensão de necessidades de usuários de software (VII SIMAC 2025)](https://www.linkedin.com/posts/lucassantuss_viisimac-fesa-innovation-activity-7393418243660652544-Mu1d)
+ 2. [Aplicação da fase de Empatia do processo de design thinking para compreensão de necessidades de usuários de software (VII SIMAC 2025)](https://doi.org/10.29327/9786527212430.1270023)
  3. [Smart Mart - Uma nova forma de fazer compras: Protótipo de uma cesta de compras inteligente utilizando os conceitos da internet das coisas e o desenvolvimento de uma aplicação web (V SIMAC 2023)](https://www.linkedin.com/posts/lucassantuss_smartmart-vsimac-fesa-activity-7129153658138599425-Vg5U)
      
   <h2 align="center">Social Media</h2>
