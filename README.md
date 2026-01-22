@@ -39,11 +39,7 @@
     </a>    
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,pycharm,tensorflow,opencv" />
-    </a>
-        <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,selenium,grafana" />
+      <img src="https://skillicons.dev/icons?i=py,figma,selenium,grafana" />
     </a>
   </p>
 
