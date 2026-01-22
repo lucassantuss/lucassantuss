@@ -43,18 +43,47 @@
     </a>
   </p>
 
-  ## My Recent Projects 
+  ## My Recent Projects
 
- 1. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="20" height="20" /> Curriculum (Porfolio)](https://lucassantuss.github.io/curriculum-portfolio)
- 2. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ticket.png" alt="Ticket" width="20" height="20" /> Passa Ingressos](https://github.com/lucassantuss/passa-ingressos)
- 3. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="20" height="20" /> SmartMart](https://github.com/lucassantuss/smartmart)
- 4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Linear Systems - Gaussian Elimination](https://github.com/lucassantuss/linear-systems-gauss)
- 5. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="20" height="20" /> Syntactic Analyzer - First and Follow](https://github.com/lucassantuss/syntactic-analyzer-first-follow)
- 6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" /> Communication Channel Simulator](https://github.com/lucassantuss/communication-channel-simulator)
- 7. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="20" height="20" /> Curriculum Generator](https://github.com/lucassantuss/curriculum-generator)
- 8. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="20" height="20" /> Bills and Coins](https://github.com/lucassantuss/bills-and-coins)
- 9. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker Light Skin Tone" width="20" height="20" /> Organo](https://github.com/lucassantuss/organo)
- 10. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="20" height="20" /> Quiz](https://github.com/lucassantuss/quiz-console)
+<a href="https://github.com/lucassantuss/passa-ingressos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=passa-ingressos&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="passa-ingressos" />
+</a>
+
+<a href="https://github.com/lucassantuss/smartmart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=smartmart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="smartmart" />
+</a>
+
+<a href="https://github.com/lucassantuss/linear-systems-gauss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=linear-systems-gauss&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="linear-systems-gauss" />
+</a>
+
+<a href="https://github.com/lucassantuss/syntactic-analyzer-first-follow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=syntactic-analyzer-first-follow&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="syntactic-analyzer-first-follow" />
+</a>
+
+<a href="https://github.com/lucassantuss/communication-channel-simulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=communication-channel-simulator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="communication-channel-simulator" />
+</a>
+
+<a href="https://github.com/lucassantuss/bills-and-coins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=bills-and-coins&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="bills-and-coins" />
+</a>
+
+<a href="https://lucassantuss.github.io/curriculum-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=curriculum-portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="curriculum-portfolio" />
+</a>
+
+<a href="https://github.com/lucassantuss/curriculum-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=curriculum-generator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="curriculum-generator" />
+</a>
+
+<a href="https://github.com/lucassantuss/organo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=organo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="organo" />
+</a>
+
+<a href="https://github.com/lucassantuss/quiz-console">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantuss&repo=quiz-console&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="quiz-console" />
+</a>
 
   ## My Published Academic Articles
 
