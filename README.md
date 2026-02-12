@@ -45,10 +45,10 @@
 
   ## My Recent Projects 
 
- 1. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="20" height="20" /> Curriculum (Porfolio)](https://lucassantuss.github.io/curriculum-portfolio)
- 2. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Person Lifting Weights Light Skin Tone" width="20" height="20" /> APE](https://github.com/lucassantuss/ape)
- 3. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ticket.png" alt="Ticket" width="20" height="20" /> Passa Ingressos](https://github.com/lucassantuss/passa-ingressos)
- 4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="20" height="20" /> SmartMart](https://github.com/lucassantuss/smartmart)
+ 1. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Person Lifting Weights Light Skin Tone" width="20" height="20" /> APE](https://github.com/lucassantuss/ape)
+ 2. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Ticket.png" alt="Ticket" width="20" height="20" /> Passa Ingressos](https://github.com/lucassantuss/passa-ingressos)
+ 3. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="20" height="20" /> SmartMart](https://github.com/lucassantuss/smartmart)
+ 4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="20" height="20" /> Curriculum (Portfolio)](https://lucassantuss.github.io/curriculum-portfolio)
  5. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Linear Systems - Gaussian Elimination](https://github.com/lucassantuss/linear-systems-gauss)
  6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="20" height="20" /> Syntactic Analyzer - First and Follow](https://github.com/lucassantuss/syntactic-analyzer-first-follow)
  7. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" /> Communication Channel Simulator](https://github.com/lucassantuss/communication-channel-simulator)
