@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lucassantuss">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;PROGRAMMER%20;SOFTWARE%20ENGINEER%20;3%2B%20YEAR%27s%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;PROGRAMMER%20;SOFTWARE%20ENGINEER%20;4%2B%20YEARS%20IN%20TECH;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
