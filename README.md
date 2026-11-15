@@ -54,8 +54,6 @@
  7. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" /> Communication Channel Simulator](https://github.com/lucassantuss/communication-channel-simulator)
  8. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="20" height="20" /> Curriculum Generator](https://github.com/lucassantuss/curriculum-generator)
  9. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="20" height="20" /> Bills and Coins](https://github.com/lucassantuss/bills-and-coins)
- 10. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker Light Skin Tone" width="20" height="20" /> Organo](https://github.com/lucassantuss/organo)
- 11. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="20" height="20" /> Quiz](https://github.com/lucassantuss/quiz-console)
 
   ## My Published Academic Articles
 
