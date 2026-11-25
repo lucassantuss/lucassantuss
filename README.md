@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lucassantuss">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;PROGRAMMER%20;SOFTWARE%20ENGINEER%20;4%2B%20YEARS%20IN%20TECH;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;PROGRAMMER%20;SOFTWARE%20ENGINEER%20;5%2B%20YEARS%20IN%20TECH;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -50,10 +50,7 @@
  3. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="20" height="20" /> SmartMart](https://github.com/lucassantuss/smartmart)
  4. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="20" height="20" /> Curriculum (Portfolio)](https://lucassantuss.github.io/curriculum-portfolio)
  5. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Linear Systems - Gaussian Elimination](https://github.com/lucassantuss/linear-systems-gauss)
- 6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="20" height="20" /> Syntactic Analyzer - First and Follow](https://github.com/lucassantuss/syntactic-analyzer-first-follow)
- 7. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" /> Communication Channel Simulator](https://github.com/lucassantuss/communication-channel-simulator)
- 8. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="20" height="20" /> Curriculum Generator](https://github.com/lucassantuss/curriculum-generator)
- 9. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="20" height="20" /> Bills and Coins](https://github.com/lucassantuss/bills-and-coins)
+ 6. [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" /> Communication Channel Simulator](https://github.com/lucassantuss/communication-channel-simulator)
 
   ## My Published Academic Articles
 
